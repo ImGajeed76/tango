@@ -24,7 +24,7 @@ A Japanese vocabulary Anki deck with 362 words, audio pronunciation, and example
 
 ### Import the Deck
 
-1. Download `output/japanese_vocabulary.apkg`
+1. Download [`japanese_vocabulary.apkg`](https://github.com/ImGajeed76/tango/blob/main/output/japanese_vocabulary.apkg)
 2. Open Anki → File → Import → select the `.apkg` file
 3. Create a free [AnkiWeb](https://ankiweb.net) account to sync across devices
 
