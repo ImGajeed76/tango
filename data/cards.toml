@@ -1,0 +1,3257 @@
+[[cards]]
+id = "e5629537-743b-4650-b9c1-00783c22d2c6"
+japanese = "ながい"
+reading = ""
+english = "long"
+answer = "long"
+example = "このみちはながいです。"
+example_en = "This road is long."
+
+[[cards]]
+id = "0aeae3e7-e8f0-4cef-8be5-696ca8c3fc67"
+japanese = "しゅうてん"
+reading = ""
+english = "final stop"
+answer = "final stop"
+example = "つぎのえきはしゅうてんです。"
+example_en = "The next station is the final stop."
+
+[[cards]]
+id = "fcb9d442-5dac-475c-b051-15eb83f66fdf"
+japanese = "時間"
+reading = "じかん"
+english = "time, hour, hours"
+answer = "time"
+example = "時間がありません。"
+example_en = "There is no time."
+
+[[cards]]
+id = "4a8f60e9-69a1-4b1d-b918-f7408736b34a"
+japanese = "分"
+reading = "ふん"
+english = "minute, minutes"
+answer = "minute"
+example = "ごふんまってください。"
+example_en = "Please wait five minutes."
+
+[[cards]]
+id = "16b0033e-16f5-4df5-93f7-47b57682bbe0"
+japanese = "ぐらい"
+reading = ""
+english = "about"
+answer = "about"
+example = "さんじゅっぷんぐらいかかります。"
+example_en = "It takes about thirty minutes."
+
+[[cards]]
+id = "2f6d3db1-9ea0-4272-a2d8-2171a981e3f8"
+japanese = "かかります"
+reading = ""
+english = "take, (it) takes, (it) will take"
+answer = "take"
+example = "えきまでじゅっぷんかかります。"
+example_en = "It takes ten minutes to the station."
+
+[[cards]]
+id = "d0d85cf4-219b-474d-9758-994b772e32d0"
+japanese = "はやい"
+reading = ""
+english = "fast"
+answer = "fast"
+example = "このでんしゃははやいです。"
+example_en = "This train is fast."
+
+[[cards]]
+id = "50226524-fd9a-4bea-94d8-82bc7d5aa355"
+japanese = "十分"
+reading = "じゅうぶん"
+english = "sufficient, enough, adequate"
+answer = "sufficient"
+example = "じかんは十分あります。"
+example_en = "There is enough time."
+
+[[cards]]
+id = "41ec6c00-5498-45ee-abbe-f6e21ebc0283"
+japanese = "どの"
+reading = ""
+english = "any, each, which"
+answer = "any"
+example = "どのでんしゃにのりますか。"
+example_en = "Which train will you take?"
+
+[[cards]]
+id = "fe7834ea-f6de-431d-92a8-6bcd137439a0"
+japanese = "もうすぐ"
+reading = ""
+english = "soon, almost, shortly"
+answer = "soon"
+example = "バスはもうすぐ来ます。"
+example_en = "The bus will be here soon."
+
+[[cards]]
+id = "69d68bd8-c839-4d91-8e70-309ab131b34a"
+japanese = "あさくさ"
+reading = ""
+english = "Asakusa"
+answer = "Asakusa"
+example = "あさくさにいきます。"
+example_en = "I am going to Asakusa."
+
+[[cards]]
+id = "6bfb1268-39d2-430c-be2b-85c9454c7cf8"
+japanese = "うえのこうえん"
+reading = ""
+english = "Ueno Park"
+answer = "Ueno Park"
+example = "うえのこうえんはひろいです。"
+example_en = "Ueno Park is spacious."
+
+[[cards]]
+id = "bf38805f-6535-4fc9-a7d2-c22cab519a5b"
+japanese = "来ます"
+reading = "きます"
+english = "will be here, will come, is coming"
+answer = "will be here"
+example = "ともだちがうちに来ます。"
+example_en = "A friend is coming to my house."
+
+[[cards]]
+id = "726c6257-ae43-4b02-82d2-7b1971ac2c00"
+japanese = "つぎの"
+reading = ""
+english = "next"
+answer = "next"
+example = "つぎのバスはなんじですか。"
+example_en = "What time is the next bus?"
+
+[[cards]]
+id = "08d0854b-ee5e-47ee-80e3-e4dac1b29886"
+japanese = "つぎ"
+reading = ""
+english = "next"
+answer = "next"
+example = "つぎはあなたです。"
+example_en = "You are next."
+
+[[cards]]
+id = "4240fb2c-a71b-4b40-b728-daa9d6fb98d6"
+japanese = "よこはま"
+reading = ""
+english = "Yokohama"
+answer = "Yokohama"
+example = "よこはまにすんでいます。"
+example_en = "I live in Yokohama."
+
+[[cards]]
+id = "267ae402-667b-4eca-8cc8-f6584c16f6a0"
+japanese = "バス"
+reading = ""
+english = "bus"
+answer = "bus"
+example = "バスでがっこうにいきます。"
+example_en = "I go to school by bus."
+
+[[cards]]
+id = "8c8e30b6-c703-4493-ad6b-bb7c50c40009"
+japanese = "あきはばら"
+reading = ""
+english = "Akihabara"
+answer = "Akihabara"
+example = "あきはばらでゲームをかいます。"
+example_en = "I buy games in Akihabara."
+
+[[cards]]
+id = "12321f58-56ea-456b-88ec-2ad8208249e3"
+japanese = "しぶや"
+reading = ""
+english = "Shibuya"
+answer = "Shibuya"
+example = "しぶやでともだちにあいます。"
+example_en = "I meet a friend in Shibuya."
+
+[[cards]]
+id = "b7daac19-a68f-40d0-b1ad-3702c401f3f6"
+japanese = "行きます"
+reading = "いきます"
+english = "am going, are going, go"
+answer = "am going"
+example = "あしたがっこうに行きます。"
+example_en = "I am going to school tomorrow."
+
+[[cards]]
+id = "31e4ead3-e330-4af5-954a-a4a603856550"
+japanese = "でんしゃ"
+reading = ""
+english = "train"
+answer = "train"
+example = "でんしゃでかいしゃにいきます。"
+example_en = "I go to work by train."
+
+[[cards]]
+id = "89f4ae26-b74d-4409-a4eb-53e147873987"
+japanese = "こんしゅう"
+reading = ""
+english = "this week"
+answer = "this week"
+example = "こんしゅういそがしいです。"
+example_en = "I am busy this week."
+
+[[cards]]
+id = "1e6558a8-5be0-4da8-b0d0-606ae06e533b"
+japanese = "いつ"
+reading = ""
+english = "when, what time"
+answer = "when"
+example = "いつ日本にいきますか。"
+example_en = "When are you going to Japan?"
+
+[[cards]]
+id = "8fd30c7f-7240-450a-99b9-59aae4ee23ad"
+japanese = "つくえ"
+reading = ""
+english = "desk"
+answer = "desk"
+example = "つくえのうえにほんがあります。"
+example_en = "There is a book on the desk."
+
+[[cards]]
+id = "92259ed5-4406-48e8-9d3f-47ea9299d0d6"
+japanese = "せんたくき"
+reading = ""
+english = "washing machine"
+answer = "washing machine"
+example = "せんたくきがあります。"
+example_en = "There is a washing machine."
+
+[[cards]]
+id = "ba903f72-73ec-48da-9823-8f6623651870"
+japanese = "れいぞうこ"
+reading = ""
+english = "fridge"
+answer = "fridge"
+example = "れいぞうこにみずがあります。"
+example_en = "There is water in the fridge."
+
+[[cards]]
+id = "89b56bd9-906e-4c1c-9a17-9ca53ff6dcb7"
+japanese = "いす"
+reading = ""
+english = "chair, chairs"
+answer = "chair"
+example = "いすにすわってください。"
+example_en = "Please sit on the chair."
+
+[[cards]]
+id = "e1fcab43-12a5-4dc7-bdc2-825310e27c3a"
+japanese = "テーブル"
+reading = ""
+english = "table, tables"
+answer = "table"
+example = "テーブルのうえにコーヒーがあります。"
+example_en = "There is coffee on the table."
+
+[[cards]]
+id = "e0833f48-0399-45c6-8c4b-eee5ac3fd13e"
+japanese = "でんしレンジ"
+reading = ""
+english = "microwave"
+answer = "microwave"
+example = "でんしレンジでべんとうをあたためます。"
+example_en = "I heat the boxed lunch in the microwave."
+
+[[cards]]
+id = "c05f5d95-0fa9-406e-ba67-f3b0139ffcd6"
+japanese = "ふとん"
+reading = ""
+english = "futon, futons"
+answer = "futon"
+example = "まいばんふとんでねます。"
+example_en = "I sleep in a futon every night."
+
+[[cards]]
+id = "8d708180-f1ae-4ae6-ba74-f605e2b386f2"
+japanese = "たぶん"
+reading = ""
+english = "probably"
+answer = "probably"
+example = "たぶんあしたあめです。"
+example_en = "It will probably rain tomorrow."
+
+[[cards]]
+id = "20d4c63b-12aa-4bad-aeae-49cb2ef7a657"
+japanese = "ほんだな"
+reading = ""
+english = "bookshelf"
+answer = "bookshelf"
+example = "ほんだなにまんががあります。"
+example_en = "There is manga on the bookshelf."
+
+[[cards]]
+id = "b59c746a-f5bf-4eb5-91dd-0355515caeec"
+japanese = "シャワー"
+reading = ""
+english = "shower, showers"
+answer = "shower"
+example = "あさシャワーをあびます。"
+example_en = "I take a shower in the morning."
+
+[[cards]]
+id = "588d6fa2-a83d-4850-99ae-dcacdaec235d"
+japanese = "そうじき"
+reading = ""
+english = "vacuum cleaner"
+answer = "vacuum cleaner"
+example = "そうじきでそうじします。"
+example_en = "I clean with the vacuum cleaner."
+
+[[cards]]
+id = "435c4442-975a-41a6-9b28-43aa156a1cb7"
+japanese = "エアコン"
+reading = ""
+english = "air conditioning, air conditioners, air conditioner"
+answer = "air conditioning"
+example = "エアコンをつけてください。"
+example_en = "Please turn on the air conditioning."
+
+[[cards]]
+id = "3b8f2781-7ba5-46a5-8a1e-08669b356d27"
+japanese = "ベッド"
+reading = ""
+english = "bed, beds"
+answer = "bed"
+example = "ベッドでねます。"
+example_en = "I sleep in bed."
+
+[[cards]]
+id = "452a7eb2-3929-46dd-8d4a-e6193119be3c"
+japanese = "せまい"
+reading = ""
+english = "cramped"
+answer = "cramped"
+example = "このへやはせまいです。"
+example_en = "This room is cramped."
+
+[[cards]]
+id = "d91efc1c-5fb0-484d-a377-2e9895109f1e"
+japanese = "リビング"
+reading = ""
+english = "living room"
+answer = "living room"
+example = "リビングでテレビをみます。"
+example_en = "I watch TV in the living room."
+
+[[cards]]
+id = "50f3d335-04b3-442d-9340-6950384d5c7d"
+japanese = "キッチン"
+reading = ""
+english = "kitchen"
+answer = "kitchen"
+example = "キッチンでりょうりをします。"
+example_en = "I cook in the kitchen."
+
+[[cards]]
+id = "02a2202c-2101-4b52-92d8-5f54325b67c8"
+japanese = "があります"
+reading = ""
+english = "is, there is, there are"
+answer = "is"
+example = "にわにきがあります。"
+example_en = "There is a tree in the garden."
+
+[[cards]]
+id = "50279dc1-60b2-422c-814b-571989f5438d"
+japanese = "アパート"
+reading = ""
+english = "apartment building, apartment, apartments"
+answer = "apartment building"
+example = "このアパートはあたらしいです。"
+example_en = "This apartment building is new."
+
+[[cards]]
+id = "641c58cb-77e2-41c7-9904-d55401dfa62e"
+japanese = "ひっこします"
+reading = ""
+english = "am going to move, is going to move, move"
+answer = "am going to move"
+example = "らいしゅうひっこします。"
+example_en = "I am going to move next week."
+
+[[cards]]
+id = "ddab90ed-a1b4-4508-9768-c6c0857ca9cd"
+japanese = "まだ"
+reading = ""
+english = "still, yet, too"
+answer = "still"
+example = "まだしゅくだいがおわりません。"
+example_en = "The homework is not finished yet."
+
+[[cards]]
+id = "d9b838c7-b253-4d39-8872-344b03f8f61b"
+japanese = "ひろい"
+reading = ""
+english = "spacious"
+answer = "spacious"
+example = "このいえはひろいです。"
+example_en = "This house is spacious."
+
+[[cards]]
+id = "8358f980-7f19-4efb-9112-5da7421e8bc7"
+japanese = "いえ"
+reading = ""
+english = "house"
+answer = "house"
+example = "いえでべんきょうします。"
+example_en = "I study at home."
+
+[[cards]]
+id = "17e7e42b-eb67-4a55-97ca-14bf60992a3a"
+japanese = "れんあい"
+reading = ""
+english = "romance"
+answer = "romance"
+example = "れんあいえいががすきです。"
+example_en = "I like romance movies."
+
+[[cards]]
+id = "f6b6d423-b3c6-4283-b321-9181b8a1636d"
+japanese = "コメディ"
+reading = ""
+english = "comedy"
+answer = "comedy"
+example = "コメディをみましょう。"
+example_en = "Let's watch a comedy."
+
+[[cards]]
+id = "efa1d66d-e2e6-4319-8897-f2942cabe46b"
+japanese = "ほんとうですか"
+reading = ""
+english = "Really?"
+answer = "Really?"
+example = "ほんとうですか、すごいですね。"
+example_en = "Really? That's amazing."
+
+[[cards]]
+id = "85afcf20-91b8-4838-b580-a1dc97d79a1c"
+japanese = "アクション"
+reading = ""
+english = "action"
+answer = "action"
+example = "アクションえいががすきです。"
+example_en = "I like action movies."
+
+[[cards]]
+id = "e4ca3a74-a062-4ead-accc-90e67cc4f9a2"
+japanese = "アメリカの"
+reading = ""
+english = "... of the US, American, ... of the United States"
+answer = "of the US"
+example = "アメリカのえいがをみます。"
+example_en = "I watch American movies."
+
+[[cards]]
+id = "4ce7c522-ce0a-4b3a-bd92-13300272601e"
+japanese = "どんな"
+reading = ""
+english = "any, what kind of, what (sort of)"
+answer = "any"
+example = "どんなおんがくがすきですか。"
+example_en = "What kind of music do you like?"
+
+[[cards]]
+id = "8633c774-17bc-40d1-9de9-9128f3178e58"
+japanese = "ファンタジー"
+reading = ""
+english = "fantasy"
+answer = "fantasy"
+example = "ファンタジーのほんをよみます。"
+example_en = "I read fantasy books."
+
+[[cards]]
+id = "7110d856-eb39-4867-9022-6ec24850c399"
+japanese = "ホラー"
+reading = ""
+english = "horror"
+answer = "horror"
+example = "ホラーえいがはこわいです。"
+example_en = "Horror movies are scary."
+
+[[cards]]
+id = "7860ce7d-82e6-4091-a3f5-747cf058c19d"
+japanese = "がすきですか"
+reading = ""
+english = "do you like"
+answer = "do you like"
+example = "にほんのりょうりがすきですか。"
+example_en = "Do you like Japanese food?"
+
+[[cards]]
+id = "16673927-cdbd-44fb-acfd-361a825da57d"
+japanese = "しゅみはありますか"
+reading = ""
+english = "do you have a hobby"
+answer = "do you have a hobby"
+example = "しゅみはありますか。"
+example_en = "Do you have a hobby?"
+
+[[cards]]
+id = "26ec07d2-a3c8-47ea-ad85-c69577bddeda"
+japanese = "ミステリー"
+reading = ""
+english = "mystery"
+answer = "mystery"
+example = "ミステリーのほんをよみます。"
+example_en = "I read mystery books."
+
+[[cards]]
+id = "74ba3499-925c-4449-8655-0b29c92b40c0"
+japanese = "Kポップ"
+reading = ""
+english = "K-pop"
+answer = "K-pop"
+example = "Kポップをよくききます。"
+example_en = "I often listen to K-pop."
+
+[[cards]]
+id = "1e395113-e6ea-4d3c-a99f-9c07492f7073"
+japanese = "日本の"
+reading = "にほんの"
+english = "Japan's, of Japan, Japanese"
+answer = "Japan's"
+example = "日本のアニメがすきです。"
+example_en = "I like Japanese anime."
+
+[[cards]]
+id = "1041462f-6051-4f7a-bdb4-b5c2eb4ca8d0"
+japanese = "がすきです"
+reading = ""
+english = "like"
+answer = "like"
+example = "おちゃがすきです。"
+example_en = "I like tea."
+
+[[cards]]
+id = "ec003cc4-0afb-417c-85bf-ce64c726cd0d"
+japanese = "ベトナム"
+reading = ""
+english = "Vietnam"
+answer = "Vietnam"
+example = "ベトナムりょうりがおいしいです。"
+example_en = "Vietnamese food is delicious."
+
+[[cards]]
+id = "a73a0ce9-732b-4835-959b-cfa3bd75baeb"
+japanese = "かんこく"
+reading = ""
+english = "Korea, korean"
+answer = "Korea"
+example = "かんこくにいきたいです。"
+example_en = "I want to go to Korea."
+
+[[cards]]
+id = "904b5cd0-9679-41e4-8ecf-b63395d82e5c"
+japanese = "かのじょ"
+reading = ""
+english = "she, girlfriend, her"
+answer = "she"
+example = "かのじょはがくせいです。"
+example_en = "She is a student."
+
+[[cards]]
+id = "b1756104-8270-47f1-976e-023001c48cfd"
+japanese = "ちゅうごく"
+reading = ""
+english = "China"
+answer = "China"
+example = "ちゅうごくごをべんきょうします。"
+example_en = "I study Chinese."
+
+[[cards]]
+id = "f619f5f4-f673-488b-b835-0e58fcda8124"
+japanese = "さんは"
+reading = ""
+english = "Mr./Ms."
+answer = "Mr./Ms."
+example = "たなかさんはせんせいです。"
+example_en = "Mr. Tanaka is a teacher."
+
+[[cards]]
+id = "72d71662-6d48-401a-b297-b705ee7e9423"
+japanese = "かれし"
+reading = ""
+english = "boyfriend"
+answer = "boyfriend"
+example = "かれしはエンジニアです。"
+example_en = "My boyfriend is an engineer."
+
+[[cards]]
+id = "7f3d93ae-0861-4975-b715-1fe9c29341fe"
+japanese = "アンドリュー"
+reading = ""
+english = "Andrew"
+answer = "Andrew"
+example = "アンドリューさんはアメリカじんです。"
+example_en = "Andrew is American."
+
+[[cards]]
+id = "dfec636e-e84e-45f5-892b-170b419b03b4"
+japanese = "と言います"
+reading = "といいます"
+english = "tell, say, says"
+answer = "tell"
+example = "わたしはたなかと言います。"
+example_en = "My name is Tanaka."
+
+[[cards]]
+id = "8a40b3d5-6415-41f9-80e6-8fa8db6cbd40"
+japanese = "エリカ"
+reading = ""
+english = "Erica, Erika"
+answer = "Erica"
+example = "エリカさんはやさしいです。"
+example_en = "Erica is kind."
+
+[[cards]]
+id = "96819922-01e5-404e-aac0-c1d3781e76b7"
+japanese = "言います"
+reading = "いいます"
+english = "tell, tells, say"
+answer = "tell"
+example = "にほんごでなんと言いますか。"
+example_en = "How do you say it in Japanese?"
+
+[[cards]]
+id = "caf0cb62-04f3-4f91-9fc4-870f68115bdf"
+japanese = "こちら"
+reading = ""
+english = "this, these, (over) here"
+answer = "this"
+example = "こちらはたなかさんです。"
+example_en = "This is Mr. Tanaka."
+
+[[cards]]
+id = "c9d33765-e6ab-4d24-b766-6687220b995a"
+japanese = "ダニエル"
+reading = ""
+english = "Daniel"
+answer = "Daniel"
+example = "ダニエルさんはともだちです。"
+example_en = "Daniel is a friend."
+
+[[cards]]
+id = "fc3ef356-df2d-4d5a-9eab-caeca433f847"
+japanese = "はしります"
+reading = ""
+english = "runs, run"
+answer = "runs"
+example = "まいあさこうえんではしります。"
+example_en = "I run in the park every morning."
+
+[[cards]]
+id = "7515c63d-5ca7-419e-811f-71f3f1c30183"
+japanese = "飲みます"
+reading = "のみます"
+english = "will have, drink, having"
+answer = "will have"
+example = "まいあさコーヒーを飲みます。"
+example_en = "I drink coffee every morning."
+
+[[cards]]
+id = "3c285d86-3b3a-4eba-bf72-55cee1f6f295"
+japanese = "パスタ"
+reading = ""
+english = "pasta"
+answer = "pasta"
+example = "ばんごはんにパスタをたべます。"
+example_en = "I eat pasta for dinner."
+
+[[cards]]
+id = "c0c3443a-8750-4489-9b57-724bf6d4d841"
+japanese = "ねます"
+reading = ""
+english = "sleep, go to sleep, will go to sleep"
+answer = "sleep"
+example = "じゅういちじにねます。"
+example_en = "I go to sleep at eleven o'clock."
+
+[[cards]]
+id = "0b59e6ce-4574-4938-b1da-983c7c578f46"
+japanese = "シャワーをあびます"
+reading = ""
+english = "take a shower"
+answer = "take a shower"
+example = "あさシャワーをあびます。"
+example_en = "I take a shower in the morning."
+
+[[cards]]
+id = "23d45b16-7067-40a8-b6f8-4b16e4828a85"
+japanese = "メールを読みます"
+reading = "メールをよみます"
+english = "check emails"
+answer = "check emails"
+example = "まいあさメールを読みます。"
+example_en = "I check emails every morning."
+
+[[cards]]
+id = "8d746694-9c98-40ef-a2f3-d21adbe7b62a"
+japanese = "あした"
+reading = ""
+english = "tomorrow"
+answer = "tomorrow"
+example = "あしたがっこうにいきます。"
+example_en = "I am going to school tomorrow."
+
+[[cards]]
+id = "fb9733e2-7eb4-4691-9a61-e41f1c4e3966"
+japanese = "らいしゅう"
+reading = ""
+english = "next week"
+answer = "next week"
+example = "らいしゅうテストがあります。"
+example_en = "There is a test next week."
+
+[[cards]]
+id = "5dc5924f-3f78-4a59-931d-6b4529fd15af"
+japanese = "バレーボール"
+reading = ""
+english = "volleyball"
+answer = "volleyball"
+example = "バレーボールをします。"
+example_en = "I play volleyball."
+
+[[cards]]
+id = "e859e3de-5f48-40c5-b78f-11d969df7a8c"
+japanese = "まいしゅう"
+reading = ""
+english = "every week"
+answer = "every week"
+example = "まいしゅうテニスをします。"
+example_en = "I play tennis every week."
+
+[[cards]]
+id = "c8e6fa5c-984f-49cf-a26f-6c7cc6c8956e"
+japanese = "四時"
+reading = "よじ"
+english = "four o'clock"
+answer = "four o'clock"
+example = "四時にかえります。"
+example_en = "I go home at four o'clock."
+
+[[cards]]
+id = "6137d97d-035a-469c-9fc0-c873ad0ae357"
+japanese = "つくります"
+reading = ""
+english = "make"
+answer = "make"
+example = "ばんごはんをつくります。"
+example_en = "I make dinner."
+
+[[cards]]
+id = "a7f59bfe-9ebe-41ca-bd48-7ef857e8055a"
+japanese = "食べます"
+reading = "たべます"
+english = "eat, am going to eat, will eat"
+answer = "eat"
+example = "あさごはんをたべます。"
+example_en = "I eat breakfast."
+
+[[cards]]
+id = "ca974c30-4671-4c26-9349-1ea4f92f94a1"
+japanese = "何時に"
+reading = "なんじに"
+english = "(at) what time"
+answer = "at what time"
+example = "何時におきますか。"
+example_en = "What time do you get up?"
+
+[[cards]]
+id = "b8f6bed5-c398-4b64-a950-e4570ffdf0bf"
+japanese = "おきます"
+reading = ""
+english = "get up, going to wake up, wake up"
+answer = "get up"
+example = "まいあさろくじにおきます。"
+example_en = "I wake up at six o'clock every morning."
+
+[[cards]]
+id = "c1a6d3e7-e61c-4c4b-9c68-2150c60082f0"
+japanese = "新聞"
+reading = "しんぶん"
+english = "newspaper"
+answer = "newspaper"
+example = "まいあさ新聞をよみます。"
+example_en = "I read the newspaper every morning."
+
+[[cards]]
+id = "dfb8b073-6a05-45ff-873e-c06bcb509670"
+japanese = "ラジオ"
+reading = ""
+english = "radio"
+answer = "radio"
+example = "くるまでラジオをききます。"
+example_en = "I listen to the radio in the car."
+
+[[cards]]
+id = "654b8354-7a94-4fe3-a691-f5620605e22b"
+japanese = "何時"
+reading = "なんじ"
+english = "when, what time"
+answer = "when"
+example = "いま何時ですか。"
+example_en = "What time is it now?"
+
+[[cards]]
+id = "4ebf7c99-71cf-447f-82f5-99ff64b3d17e"
+japanese = "いつも"
+reading = ""
+english = "always, all the time, never"
+answer = "always"
+example = "いつもはちじにおきます。"
+example_en = "I always get up at eight o'clock."
+
+[[cards]]
+id = "9866a643-94f6-402b-b068-fdcdbae44880"
+japanese = "でぐち"
+reading = ""
+english = "exit"
+answer = "exit"
+example = "でぐちはどこですか。"
+example_en = "Where is the exit?"
+
+[[cards]]
+id = "442a4cc5-4c1d-47df-a8c6-d736f514f09b"
+japanese = "じはんき"
+reading = ""
+english = "vending machines, vending machine"
+answer = "vending machines"
+example = "じはんきでみずをかいます。"
+example_en = "I buy water from the vending machine."
+
+[[cards]]
+id = "c0ac281d-8881-4917-a199-cadbd75d455a"
+japanese = "コインロッカー"
+reading = ""
+english = "storage lockers"
+answer = "storage lockers"
+example = "えきにコインロッカーがあります。"
+example_en = "There are storage lockers at the station."
+
+[[cards]]
+id = "ccd833b4-d2b6-42f8-870f-ec9f1736274f"
+japanese = "ちかい"
+reading = ""
+english = "close"
+answer = "close"
+example = "えきはちかいです。"
+example_en = "The station is close."
+
+[[cards]]
+id = "2916729d-da41-400f-a224-e387f4fec0d5"
+japanese = "カフェ"
+reading = ""
+english = "cafe"
+answer = "cafe"
+example = "カフェでコーヒーをのみます。"
+example_en = "I drink coffee at the cafe."
+
+[[cards]]
+id = "876ece03-abb0-4ea3-9266-5e057cff6d1d"
+japanese = "にかい"
+reading = ""
+english = "the second floor, two"
+answer = "the second floor"
+example = "レストランはにかいにあります。"
+example_en = "The restaurant is on the second floor."
+
+[[cards]]
+id = "cf5b5707-aa4a-4809-8e36-b0c4c5413e76"
+japanese = "かいだん"
+reading = ""
+english = "stairs"
+answer = "stairs"
+example = "かいだんでにかいにいきます。"
+example_en = "I go to the second floor by stairs."
+
+[[cards]]
+id = "6f9ae7cd-4c59-486a-88dc-2ad4505b962a"
+japanese = "コンセント"
+reading = ""
+english = "outlet"
+answer = "outlet"
+example = "コンセントはどこですか。"
+example_en = "Where is the outlet?"
+
+[[cards]]
+id = "8620f850-2b72-46b5-b2ee-bc52803525b6"
+japanese = "とおい"
+reading = ""
+english = "far"
+answer = "far"
+example = "くうこうはとおいです。"
+example_en = "The airport is far."
+
+[[cards]]
+id = "ac8b2132-df94-42af-83f0-b28122ddcfee"
+japanese = "でんわ"
+reading = ""
+english = "phone"
+answer = "phone"
+example = "でんわをかけます。"
+example_en = "I make a phone call."
+
+[[cards]]
+id = "dc3fd1b5-efb4-4125-aeb9-2ab94bea02b5"
+japanese = "ちか"
+reading = ""
+english = "underground level"
+answer = "underground level"
+example = "ちかにレストランがあります。"
+example_en = "There is a restaurant on the underground level."
+
+[[cards]]
+id = "da636da9-b322-4d71-8f58-45c6c8f684e5"
+japanese = "タクシー"
+reading = ""
+english = "taxi"
+answer = "taxi"
+example = "タクシーでホテルにいきます。"
+example_en = "I go to the hotel by taxi."
+
+[[cards]]
+id = "f98af27e-7138-4f48-b9a6-ba186876bfe6"
+japanese = "エレベーター"
+reading = ""
+english = "elevator"
+answer = "elevator"
+example = "エレベーターでさんかいにいきます。"
+example_en = "I go to the third floor by elevator."
+
+[[cards]]
+id = "b3f1ea29-2807-4f97-91c2-c93772a6ed53"
+japanese = "おてあらい"
+reading = ""
+english = "restroom"
+answer = "restroom"
+example = "おてあらいはどこですか。"
+example_en = "Where is the restroom?"
+
+[[cards]]
+id = "9d9ddf0d-647c-4dbc-99ef-04c1d42363b6"
+japanese = "wifi"
+reading = ""
+english = "wifi"
+answer = "wifi"
+example = "このカフェにwifiがあります。"
+example_en = "This cafe has wifi."
+
+[[cards]]
+id = "d168cac5-04ed-492e-a8c9-04cb33792cc0"
+japanese = "ありません"
+reading = ""
+english = "there are no, (it) is not, has nothing"
+answer = "there are no"
+example = "ここにコンセントはありません。"
+example_en = "There is no outlet here."
+
+[[cards]]
+id = "30ae803a-e55a-4ff4-ae89-96a38170230f"
+japanese = "ゴミばこ"
+reading = ""
+english = "trash can"
+answer = "trash can"
+example = "ゴミばこはどこですか。"
+example_en = "Where is the trash can?"
+
+[[cards]]
+id = "028af554-2ab9-44db-99f6-0bf37cbc7537"
+japanese = "のりかえ"
+reading = ""
+english = "transfer"
+answer = "transfer"
+example = "つぎのえきでのりかえます。"
+example_en = "I transfer at the next station."
+
+[[cards]]
+id = "ed5104e6-db4e-472f-9593-45975a9b276f"
+japanese = "あそこ"
+reading = ""
+english = "over there"
+answer = "over there"
+example = "あそこにカフェがあります。"
+example_en = "There is a cafe over there."
+
+[[cards]]
+id = "3715023e-13b7-4b15-a18c-3a25c4f2d26c"
+japanese = "かいさつ"
+reading = ""
+english = "ticket gate"
+answer = "ticket gate"
+example = "かいさつはどこですか。"
+example_en = "Where is the ticket gate?"
+
+[[cards]]
+id = "89cba8ab-8b85-4651-abcb-274b8cdc8145"
+japanese = "ありますか"
+reading = ""
+english = "is (there), is (it), are (there)"
+answer = "is there"
+example = "ちかくにコンビニはありますか。"
+example_en = "Is there a convenience store nearby?"
+
+[[cards]]
+id = "3ef33bf1-14fa-4d01-a4a5-fe873bc3930b"
+japanese = "いっかい"
+reading = ""
+english = "first floor"
+answer = "first floor"
+example = "カフェはいっかいにあります。"
+example_en = "The cafe is on the first floor."
+
+[[cards]]
+id = "35ee77f8-1728-4ed9-88c1-3044d2e450da"
+japanese = "ホーム"
+reading = ""
+english = "platform"
+answer = "platform"
+example = "ホームででんしゃをまちます。"
+example_en = "I wait for the train on the platform."
+
+[[cards]]
+id = "bf3558b6-16b5-4404-8245-2e7613fe3f1b"
+japanese = "どうが"
+reading = ""
+english = "video"
+answer = "video"
+example = "どうがをみます。"
+example_en = "I watch a video."
+
+[[cards]]
+id = "857c29db-1780-4972-91fe-8c1e72b39e2b"
+japanese = "じゅうどう"
+reading = ""
+english = "judo"
+answer = "judo"
+example = "じゅうどうをならいます。"
+example_en = "I learn judo."
+
+[[cards]]
+id = "70ae9a41-3bd9-4c5e-a272-4ee0276f5473"
+japanese = "テニス"
+reading = ""
+english = "tennis"
+answer = "tennis"
+example = "まいしゅうテニスをします。"
+example_en = "I play tennis every week."
+
+[[cards]]
+id = "5740d975-98e8-4291-ad68-618ef9c800bc"
+japanese = "話します"
+reading = "はなします"
+english = "speaks, speak, tells"
+answer = "speaks"
+example = "にほんごをはなします。"
+example_en = "I speak Japanese."
+
+[[cards]]
+id = "0e9e6c3d-3598-49f6-b906-0d56b5f0d869"
+japanese = "日曜日"
+reading = "にちようび"
+english = "Sunday"
+answer = "Sunday"
+example = "日曜日にやすみます。"
+example_en = "I rest on Sunday."
+
+[[cards]]
+id = "78c43490-faf4-4fa6-a8ad-e1bb1f0afa70"
+japanese = "ゲーム"
+reading = ""
+english = "video games"
+answer = "video games"
+example = "ともだちとゲームをします。"
+example_en = "I play video games with friends."
+
+[[cards]]
+id = "a98a9565-1cb0-4260-8d02-574e19e6a71f"
+japanese = "からて"
+reading = ""
+english = "karate"
+answer = "karate"
+example = "からてをれんしゅうします。"
+example_en = "I practice karate."
+
+[[cards]]
+id = "ff367226-1a0e-409d-8461-8ba2ab02da7d"
+japanese = "でかけます"
+reading = ""
+english = "go out, am going to go out"
+answer = "go out"
+example = "どようびにでかけます。"
+example_en = "I go out on Saturday."
+
+[[cards]]
+id = "3b3d4c47-697b-44f1-93ae-c2a5af0fe476"
+japanese = "土曜日"
+reading = "どようび"
+english = "Saturday, Saturdays"
+answer = "Saturday"
+example = "土曜日にかいものをします。"
+example_en = "I go shopping on Saturday."
+
+[[cards]]
+id = "e1ca69b2-bf74-4faf-9802-453a50e15d44"
+japanese = "買います"
+reading = "かいます"
+english = "will buy"
+answer = "will buy"
+example = "あたらしいくつを買います。"
+example_en = "I will buy new shoes."
+
+[[cards]]
+id = "635ee1bd-69d0-4b53-9646-e929abe044ae"
+japanese = "スポーツ"
+reading = ""
+english = "sports"
+answer = "sports"
+example = "スポーツがすきです。"
+example_en = "I like sports."
+
+[[cards]]
+id = "267a24cc-39db-4aee-b96f-2b619feaa43c"
+japanese = "ヨガ"
+reading = ""
+english = "yoga"
+answer = "yoga"
+example = "まいあさヨガをします。"
+example_en = "I do yoga every morning."
+
+[[cards]]
+id = "7cc2d7fe-a9c8-4ef9-8256-0f97c7d30e25"
+japanese = "ともだち"
+reading = ""
+english = "friend, friends"
+answer = "friend"
+example = "ともだちとえいがをみます。"
+example_en = "I watch a movie with friends."
+
+[[cards]]
+id = "04a4d757-3c37-4648-80a0-951d1318c293"
+japanese = "ドラマ"
+reading = ""
+english = "drama"
+answer = "drama"
+example = "にほんのドラマをみます。"
+example_en = "I watch Japanese dramas."
+
+[[cards]]
+id = "ee49596b-41c5-4deb-b179-bc003df86978"
+japanese = "あそびます"
+reading = ""
+english = "hang out, hangs out, (I) will play"
+answer = "hang out"
+example = "こうえんであそびます。"
+example_en = "I play in the park."
+
+[[cards]]
+id = "7a7cbabb-abec-49eb-aa57-895a696a2e6f"
+japanese = "およぎます"
+reading = ""
+english = "swim, will swim, swims"
+answer = "swim"
+example = "プールでおよぎます。"
+example_en = "I swim in the pool."
+
+[[cards]]
+id = "4a5185c1-6478-4c4e-942d-e90f77cd81d3"
+japanese = "しゅうまつ"
+reading = ""
+english = "weekend"
+answer = "weekend"
+example = "しゅうまつはなにをしますか。"
+example_en = "What do you do on the weekend?"
+
+[[cards]]
+id = "1f1bca19-57f8-4a7b-b6c3-4947a95e3fb8"
+japanese = "ひとりで"
+reading = ""
+english = "by myself, by herself, alone"
+answer = "by myself"
+example = "ひとりでえいがをみます。"
+example_en = "I watch a movie by myself."
+
+[[cards]]
+id = "a1eab723-86c6-4169-925e-1c420c6c6f41"
+japanese = "アイスコーヒー"
+reading = ""
+english = "iced coffee"
+answer = "iced coffee"
+example = "アイスコーヒーをください。"
+example_en = "Iced coffee, please."
+
+[[cards]]
+id = "dd9b3ea3-2e9c-4466-9c6b-3d125a0b2902"
+japanese = "アイスクリーム"
+reading = ""
+english = "ice cream, ice creams"
+answer = "ice cream"
+example = "アイスクリームがたべたいです。"
+example_en = "I want to eat ice cream."
+
+[[cards]]
+id = "81d1db97-2a78-4c69-8d09-34de222f8b02"
+japanese = "こうちゃ"
+reading = ""
+english = "black teas, black tea, tea"
+answer = "black teas"
+example = "こうちゃをのみます。"
+example_en = "I drink black tea."
+
+[[cards]]
+id = "aeffc569-d991-4c1c-bd3c-39e1726a0f97"
+japanese = "小さい"
+reading = "ちいさい"
+english = "small, little"
+answer = "small"
+example = "この小さいかばんをください。"
+example_en = "This small bag, please."
+
+[[cards]]
+id = "679d29bb-f922-4931-a746-d9a8169c179a"
+japanese = "すこし"
+reading = ""
+english = "a bit"
+answer = "a bit"
+example = "すこしまってください。"
+example_en = "Please wait a bit."
+
+[[cards]]
+id = "59f37287-29a1-4974-855e-b12fa590971f"
+japanese = "みそしる"
+reading = ""
+english = "miso soup"
+answer = "miso soup"
+example = "みそしるがすきです。"
+example_en = "I like miso soup."
+
+[[cards]]
+id = "461c3b5c-f98a-4aca-824d-7904665182a6"
+japanese = "サラダ"
+reading = ""
+english = "salad, salads"
+answer = "salad"
+example = "サラダをたべます。"
+example_en = "I eat a salad."
+
+[[cards]]
+id = "f300bebf-c434-46cd-b0a5-0ee5afaa4b47"
+japanese = "そば"
+reading = ""
+english = "soba"
+answer = "soba"
+example = "そばをたべましょう。"
+example_en = "Let's eat soba."
+
+[[cards]]
+id = "8ea3e483-e705-4d4d-9a8b-96b450e2c313"
+japanese = "大きい"
+reading = "おおきい"
+english = "big"
+answer = "big"
+example = "この大きいかばんはいくらですか。"
+example_en = "How much is this big bag?"
+
+[[cards]]
+id = "1f71259f-1bac-4a94-b3eb-5f2ffd14cb1f"
+japanese = "おにぎり"
+reading = ""
+english = "rice balls, rice ball, onigiri"
+answer = "rice balls"
+example = "おにぎりをふたつください。"
+example_en = "Two rice balls, please."
+
+[[cards]]
+id = "50014e25-5ccb-4aaf-94c9-5c05b6866957"
+japanese = "よっつ"
+reading = ""
+english = "four"
+answer = "four"
+example = "りんごをよっつください。"
+example_en = "Four apples, please."
+
+[[cards]]
+id = "2fda3fb6-4979-4287-a298-5daf03bb3183"
+japanese = "ええと"
+reading = ""
+english = "um"
+answer = "um"
+example = "ええと、サラダをください。"
+example_en = "Um, a salad, please."
+
+[[cards]]
+id = "7c3064d9-ab29-4b2d-9681-e07305d3bba6"
+japanese = "みっつ"
+reading = ""
+english = "three"
+answer = "three"
+example = "おにぎりをみっつください。"
+example_en = "Three rice balls, please."
+
+[[cards]]
+id = "e2c872fe-db9f-4d11-8903-ee284fc85e4c"
+japanese = "じゃあ"
+reading = ""
+english = "well then, well, see you"
+answer = "well then"
+example = "じゃあ、これをください。"
+example_en = "Well then, this one please."
+
+[[cards]]
+id = "254b810d-9bca-4b00-b13e-7ce01b8f90b2"
+japanese = "ふたつ"
+reading = ""
+english = "two"
+answer = "two"
+example = "ケーキをふたつください。"
+example_en = "Two cakes, please."
+
+[[cards]]
+id = "142306b9-38f6-40a9-b6bf-2d58968f542b"
+japanese = "あ"
+reading = ""
+english = "ah, oh"
+answer = "ah"
+example = "あ、すみません。"
+example_en = "Oh, excuse me."
+
+[[cards]]
+id = "19561536-2896-46e6-ad39-d6a730237249"
+japanese = "ひとつ"
+reading = ""
+english = "one"
+answer = "one"
+example = "おにぎりをひとつください。"
+example_en = "One rice ball, please."
+
+[[cards]]
+id = "9c43d208-8137-4317-9567-12dad1cc26db"
+japanese = "水"
+reading = "みず"
+english = "water, waters"
+answer = "water"
+example = "水をください。"
+example_en = "Water, please."
+
+[[cards]]
+id = "db9c5260-81fc-4ae8-91c4-9ac8e69c10d6"
+japanese = "レストラン"
+reading = ""
+english = "restaurant"
+answer = "restaurant"
+example = "レストランでたべます。"
+example_en = "I eat at a restaurant."
+
+[[cards]]
+id = "79203036-ef3c-4325-ac61-6cd71fe0f7cf"
+japanese = "ていしょく"
+reading = ""
+english = "meal set, meal sets"
+answer = "meal set"
+example = "ていしょくをひとつください。"
+example_en = "One meal set, please."
+
+[[cards]]
+id = "8603a2c2-c62c-476a-baca-3782691a5595"
+japanese = "うどん"
+reading = ""
+english = "udon"
+answer = "udon"
+example = "うどんをたべます。"
+example_en = "I eat udon."
+
+[[cards]]
+id = "a3608ed4-a7de-4136-a856-f8e421317f00"
+japanese = "てんぷら"
+reading = ""
+english = "tempura"
+answer = "tempura"
+example = "てんぷらがおいしいです。"
+example_en = "The tempura is delicious."
+
+[[cards]]
+id = "9bafeae8-f520-41e2-8724-9f749d78c941"
+japanese = "ジャケット"
+reading = ""
+english = "jacket"
+answer = "jacket"
+example = "このジャケットはたかいです。"
+example_en = "This jacket is expensive."
+
+[[cards]]
+id = "3040ca71-1956-4700-ba21-87df4ba70561"
+japanese = "たかい"
+reading = ""
+english = "expensive, big, tall"
+answer = "expensive"
+example = "このレストランはたかいです。"
+example_en = "This restaurant is expensive."
+
+[[cards]]
+id = "130fd859-7332-4ac4-b00f-e929f209b40a"
+japanese = "くろい"
+reading = ""
+english = "black"
+answer = "black"
+example = "くろいコートがほしいです。"
+example_en = "I want a black coat."
+
+[[cards]]
+id = "0e5c7492-4216-43dd-99e0-456ba8d4995d"
+japanese = "みせ"
+reading = ""
+english = "store"
+answer = "store"
+example = "あのみせはやすいです。"
+example_en = "That store is cheap."
+
+[[cards]]
+id = "d31e73b5-d58e-4cd5-b696-1e493ccc571b"
+japanese = "ありがとうございます"
+reading = ""
+english = "thank you"
+answer = "thank you"
+example = "ありがとうございます、またきます。"
+example_en = "Thank you, I will come again."
+
+[[cards]]
+id = "40da7619-e42d-4dba-962c-8d408458c0d1"
+japanese = "千"
+reading = "せん"
+english = "thousand"
+answer = "thousand"
+example = "せんえんです。"
+example_en = "It is one thousand yen."
+
+[[cards]]
+id = "44377bc8-208a-4956-9867-18005ecc439d"
+japanese = "いくら"
+reading = ""
+english = "how much"
+answer = "how much"
+example = "このTシャツはいくらですか。"
+example_en = "How much is this t-shirt?"
+
+[[cards]]
+id = "0ba7901e-ccd7-41d9-bdd6-aabebb4b4cd8"
+japanese = "ネクタイ"
+reading = ""
+english = "tie, necktie, ties"
+answer = "tie"
+example = "あおいネクタイをください。"
+example_en = "The blue tie, please."
+
+[[cards]]
+id = "42deedc3-226f-427b-a79b-f81127bbccf8"
+japanese = "えん"
+reading = ""
+english = "yen"
+answer = "yen"
+example = "ひゃくえんです。"
+example_en = "It is one hundred yen."
+
+[[cards]]
+id = "c2e9855f-0861-44ad-8bf2-0f78ed1c8324"
+japanese = "やすい"
+reading = ""
+english = "cheap, inexpensive"
+answer = "cheap"
+example = "このみせはやすいです。"
+example_en = "This store is cheap."
+
+[[cards]]
+id = "f9ea71ef-8c72-4ac4-923a-aaffda659923"
+japanese = "百"
+reading = "ひゃく"
+english = "hundred"
+answer = "hundred"
+example = "ひゃくえんです。"
+example_en = "It is one hundred yen."
+
+[[cards]]
+id = "694163d6-3e8f-44ff-9fac-6d5c30c1015c"
+japanese = "あの"
+reading = ""
+english = "those, ah, that (over there)"
+answer = "those"
+example = "あのみせにいきましょう。"
+example_en = "Let's go to that store over there."
+
+[[cards]]
+id = "17ecf79b-e1cc-4139-929c-b215aa958a4d"
+japanese = "あおい"
+reading = ""
+english = "blue"
+answer = "blue"
+example = "あおいドレスがすてきです。"
+example_en = "The blue dress is lovely."
+
+[[cards]]
+id = "9dee6a06-b48d-4669-9f3f-a8dc53e217a9"
+japanese = "いい"
+reading = ""
+english = "good, like, well"
+answer = "good"
+example = "このほんはいいです。"
+example_en = "This book is good."
+
+[[cards]]
+id = "387cbc13-b60e-4ba0-8bac-3b9a9688cec9"
+japanese = "ドレス"
+reading = ""
+english = "dress"
+answer = "dress"
+example = "このドレスはあたらしいです。"
+example_en = "This dress is new."
+
+[[cards]]
+id = "92cade3b-2ce0-4e2b-94ad-a66c81cc9af5"
+japanese = "すてき"
+reading = ""
+english = "lovely, nice, cute"
+answer = "lovely"
+example = "すてきなふくですね。"
+example_en = "Those are lovely clothes."
+
+[[cards]]
+id = "a09dff78-2b54-49d3-b0ec-6512c876d199"
+japanese = "がほしいです"
+reading = ""
+english = "want"
+answer = "want"
+example = "あたらしいスマホがほしいです。"
+example_en = "I want a new smartphone."
+
+[[cards]]
+id = "87da21fc-20e7-41ed-9342-7dd5f7256c6d"
+japanese = "スカート"
+reading = ""
+english = "skirt"
+answer = "skirt"
+example = "あかいスカートをかいます。"
+example_en = "I buy a red skirt."
+
+[[cards]]
+id = "c05f59d0-28ea-46af-8718-d0ff94e7833a"
+japanese = "Tシャツ"
+reading = ""
+english = "t-shirt"
+answer = "t-shirt"
+example = "しろいTシャツをかいます。"
+example_en = "I buy a white t-shirt."
+
+[[cards]]
+id = "a87a73f5-cfb6-425e-8452-462a9717438e"
+japanese = "新しい"
+reading = "あたらしい"
+english = "new, newer"
+answer = "new"
+example = "新しいくつがほしいです。"
+example_en = "I want new shoes."
+
+[[cards]]
+id = "8d2e53a8-a5b9-4b8e-91d1-2949f5e6b8b8"
+japanese = "ね"
+reading = ""
+english = "isn't it?"
+answer = "isn't it?"
+example = "このケーキはおいしいですね。"
+example_en = "This cake is delicious, isn't it?"
+
+[[cards]]
+id = "e46674b0-c8f6-49ae-bf16-fce3764803c2"
+japanese = "ふく"
+reading = ""
+english = "clothes"
+answer = "clothes"
+example = "あたらしいふくをかいます。"
+example_en = "I buy new clothes."
+
+[[cards]]
+id = "abceaa6a-8519-419f-a8bf-9b927509bb35"
+japanese = "ダサい"
+reading = ""
+english = "hideous"
+answer = "hideous"
+example = "このぼうしはダサいです。"
+example_en = "This hat is hideous."
+
+[[cards]]
+id = "abab4353-12eb-41b4-9d4a-a0531853c55e"
+japanese = "はちょっと"
+reading = ""
+english = "I don't really like, doesn't work very well, kind of"
+answer = "I don't really like"
+example = "このいろはちょっと。"
+example_en = "This color doesn't work very well."
+
+[[cards]]
+id = "b745a85c-e933-48f2-88af-a8079a9c6ad3"
+japanese = "さいふ"
+reading = ""
+english = "wallet"
+answer = "wallet"
+example = "さいふをわすれました。"
+example_en = "I forgot my wallet."
+
+[[cards]]
+id = "a0abb6ba-91bc-464b-b746-1c1711d6203f"
+japanese = "古い"
+reading = "ふるい"
+english = "old"
+answer = "old"
+example = "このいえはふるいです。"
+example_en = "This house is old."
+
+[[cards]]
+id = "9c02963b-6cd1-4da2-a11b-3684e4f69d43"
+japanese = "ばんごはん"
+reading = ""
+english = "dinner"
+answer = "dinner"
+example = "ばんごはんをつくります。"
+example_en = "I make dinner."
+
+[[cards]]
+id = "a2fb8754-e38f-43cf-be1d-7804b9f96b6d"
+japanese = "まいばん"
+reading = ""
+english = "every night"
+answer = "every night"
+example = "まいばんテレビをみます。"
+example_en = "I watch TV every night."
+
+[[cards]]
+id = "295fab60-ea21-441b-a629-686e38df9da6"
+japanese = "九時"
+reading = "くじ"
+english = "nine o'clock"
+answer = "nine o'clock"
+example = "九時にねます。"
+example_en = "I go to sleep at nine o'clock."
+
+[[cards]]
+id = "4b42dce5-9e4e-418b-b847-83371ccd41ad"
+japanese = "半"
+reading = "はん"
+english = "thirty"
+answer = "thirty"
+example = "くじはんにいきます。"
+example_en = "I go at nine thirty."
+
+[[cards]]
+id = "209476e1-a81f-4e47-a910-888fac4f2fc1"
+japanese = "八"
+reading = "はち"
+english = "eight"
+answer = "eight"
+example = "はちじにおきます。"
+example_en = "I get up at eight o'clock."
+
+[[cards]]
+id = "02e57de7-751c-4354-a24f-3a8a72c5ec8c"
+japanese = "べんとう"
+reading = ""
+english = "boxed lunch"
+answer = "boxed lunch"
+example = "べんとうをもっていきます。"
+example_en = "I bring a boxed lunch."
+
+[[cards]]
+id = "2c113566-5ed9-403c-b7fa-3599fee898e1"
+japanese = "ひるごはん"
+reading = ""
+english = "lunch"
+answer = "lunch"
+example = "じゅうにじにひるごはんをたべます。"
+example_en = "I eat lunch at twelve o'clock."
+
+[[cards]]
+id = "a0518a17-5d4d-4bf8-8d14-b315746ed129"
+japanese = "十二"
+reading = "じゅうに"
+english = "twelve"
+answer = "twelve"
+example = "じゅうにじです。"
+example_en = "It is twelve o'clock."
+
+[[cards]]
+id = "e73f652c-8c46-4f85-a7ae-a3fd94af4b4b"
+japanese = "十"
+reading = "じゅう"
+english = "ten"
+answer = "ten"
+example = "じゅうじにねます。"
+example_en = "I go to sleep at ten o'clock."
+
+[[cards]]
+id = "d061c726-9f67-4288-b5ee-3a1056e77fc9"
+japanese = "十一"
+reading = "じゅういち"
+english = "eleven"
+answer = "eleven"
+example = "じゅういちじにねます。"
+example_en = "I go to sleep at eleven o'clock."
+
+[[cards]]
+id = "eadcc156-2acb-4324-8020-b5f95b275205"
+japanese = "あさごはん"
+reading = ""
+english = "breakfast"
+answer = "breakfast"
+example = "あさごはんにパンをたべます。"
+example_en = "I eat bread for breakfast."
+
+[[cards]]
+id = "e9557c63-c5f4-40c0-8342-5d80ef568226"
+japanese = "七時"
+reading = "しちじ"
+english = "seven o'clock"
+answer = "seven o'clock"
+example = "七時におきます。"
+example_en = "I get up at seven o'clock."
+
+[[cards]]
+id = "18f573a7-f9b8-4700-9ec4-fc994b56fb5f"
+japanese = "時"
+reading = "じ"
+english = "o'clock"
+answer = "o'clock"
+example = "いまなんじですか。"
+example_en = "What time is it now?"
+
+[[cards]]
+id = "d8b2a266-1ac1-45a4-9a69-19703dc4a604"
+japanese = "コーヒー"
+reading = ""
+english = "coffee"
+answer = "coffee"
+example = "コーヒーをのみます。"
+example_en = "I drink coffee."
+
+[[cards]]
+id = "a52bd854-6588-4664-baa8-b0bf67dc4b32"
+japanese = "まいあさ"
+reading = ""
+english = "every morning"
+answer = "every morning"
+example = "まいあさろくじにおきます。"
+example_en = "I get up at six o'clock every morning."
+
+[[cards]]
+id = "36dfcd1a-0692-4fea-bcab-de431b2220dd"
+japanese = "のみます"
+reading = ""
+english = "drink, drinks, (will) drink"
+answer = "drink"
+example = "みずをのみます。"
+example_en = "I drink water."
+
+[[cards]]
+id = "d4489f8b-d685-4cf1-9921-3052eb580a30"
+japanese = "ジュース"
+reading = ""
+english = "juice"
+answer = "juice"
+example = "ジュースをのみます。"
+example_en = "I drink juice."
+
+[[cards]]
+id = "66fce3a3-a82f-415e-9fbd-d2655d5441d3"
+japanese = "まいにち"
+reading = ""
+english = "every day"
+answer = "every day"
+example = "まいにちにほんごをべんきょうします。"
+example_en = "I study Japanese every day."
+
+[[cards]]
+id = "f506533c-73cd-445c-95c5-733b1c22243d"
+japanese = "パン"
+reading = ""
+english = "bread"
+answer = "bread"
+example = "あさパンをたべます。"
+example_en = "I eat bread in the morning."
+
+[[cards]]
+id = "ade6958f-4e50-46f7-a76b-b271a1384037"
+japanese = "サンドイッチ"
+reading = ""
+english = "sandwich"
+answer = "sandwich"
+example = "サンドイッチをつくります。"
+example_en = "I make a sandwich."
+
+[[cards]]
+id = "b575ac9b-5588-4986-b808-81c7a80bca75"
+japanese = "たべます"
+reading = ""
+english = "eat, eats"
+answer = "eat"
+example = "ひるごはんをたべます。"
+example_en = "I eat lunch."
+
+[[cards]]
+id = "6b189d74-04a7-4af0-8af7-d077a59f22f5"
+japanese = "Jポップ"
+reading = ""
+english = "J-pop"
+answer = "J-pop"
+example = "Jポップをききます。"
+example_en = "I listen to J-pop."
+
+[[cards]]
+id = "9e4d57f1-f23f-4497-8d33-8cfd709169bb"
+japanese = "まんが"
+reading = ""
+english = "manga"
+answer = "manga"
+example = "まんがをよみます。"
+example_en = "I read manga."
+
+[[cards]]
+id = "3e2e269b-3adb-4c89-925b-fa59d5a40cf3"
+japanese = "アニメ"
+reading = ""
+english = "anime"
+answer = "anime"
+example = "にほんのアニメをみます。"
+example_en = "I watch Japanese anime."
+
+[[cards]]
+id = "baf3e390-ad64-40ee-9260-70fa9dc905f0"
+japanese = "やきゅう"
+reading = ""
+english = "baseball"
+answer = "baseball"
+example = "やきゅうをみます。"
+example_en = "I watch baseball."
+
+[[cards]]
+id = "f6df5a16-de85-44f7-b56c-13f86006535c"
+japanese = "ざっし"
+reading = ""
+english = "magazines"
+answer = "magazines"
+example = "ざっしをよみます。"
+example_en = "I read magazines."
+
+[[cards]]
+id = "1ba0a81e-4243-4474-8282-7fda008d9b24"
+japanese = "本"
+reading = "ほん"
+english = "books"
+answer = "books"
+example = "本をよみます。"
+example_en = "I read a book."
+
+[[cards]]
+id = "7cec371d-df2d-4794-abc5-ba23f6575628"
+japanese = "読みます"
+reading = "よみます"
+english = "read, will read, reads"
+answer = "read"
+example = "まいばんほんを読みます。"
+example_en = "I read a book every night."
+
+[[cards]]
+id = "87ef5c44-3e80-4b73-aafa-0dcfe3888091"
+japanese = "ニュース"
+reading = ""
+english = "news"
+answer = "news"
+example = "まいあさニュースをみます。"
+example_en = "I watch the news every morning."
+
+[[cards]]
+id = "c6a449af-7d5f-40fa-b1cb-6f2c29e884f1"
+japanese = "おんがく"
+reading = ""
+english = "music"
+answer = "music"
+example = "おんがくをききます。"
+example_en = "I listen to music."
+
+[[cards]]
+id = "6b23bfdd-7692-4ee9-8b3f-42846456ac9f"
+japanese = "ロック"
+reading = ""
+english = "rock"
+answer = "rock"
+example = "ロックがすきです。"
+example_en = "I like rock music."
+
+[[cards]]
+id = "5521da16-451e-402f-9edb-be4fbc84676e"
+japanese = "ききます"
+reading = ""
+english = "listen, listens, ask"
+answer = "listen"
+example = "ラジオをききます。"
+example_en = "I listen to the radio."
+
+[[cards]]
+id = "d57c815b-8407-458d-a826-8637453e9640"
+japanese = "ジャズ"
+reading = ""
+english = "jazz"
+answer = "jazz"
+example = "ジャズをよくききます。"
+example_en = "I often listen to jazz."
+
+[[cards]]
+id = "8f82ae2d-f784-44b5-9680-b5dba4ddda61"
+japanese = "サッカー"
+reading = ""
+english = "soccer"
+answer = "soccer"
+example = "サッカーをします。"
+example_en = "I play soccer."
+
+[[cards]]
+id = "0c68c6b5-5292-45d3-9091-8f3eb3814d99"
+japanese = "ときどき"
+reading = ""
+english = "sometimes"
+answer = "sometimes"
+example = "ときどきえいがをみます。"
+example_en = "I sometimes watch movies."
+
+[[cards]]
+id = "2fa719a0-1428-4e3c-ba9c-bbf53fceb882"
+japanese = "します"
+reading = ""
+english = "makes, are doing, make"
+answer = "makes"
+example = "しゅくだいをします。"
+example_en = "I do homework."
+
+[[cards]]
+id = "f87d6717-1970-4861-b744-d3d268ee71d4"
+japanese = "バスケットボール"
+reading = ""
+english = "basketball"
+answer = "basketball"
+example = "バスケットボールをします。"
+example_en = "I play basketball."
+
+[[cards]]
+id = "07f12e15-b5de-41c6-a862-e3c42eaf5fe0"
+japanese = "を"
+reading = ""
+english = "through, with, for"
+answer = "through"
+example = "みずをのみます。"
+example_en = "I drink water."
+
+[[cards]]
+id = "1ec813cc-40e1-476f-a21b-157b238e6483"
+japanese = "よく"
+reading = ""
+english = "often"
+answer = "often"
+example = "よくカフェにいきます。"
+example_en = "I often go to a cafe."
+
+[[cards]]
+id = "393fb46f-75cd-4431-8fdf-66caf7370445"
+japanese = "えいが"
+reading = ""
+english = "movies"
+answer = "movies"
+example = "えいがをみにいきます。"
+example_en = "I go to see a movie."
+
+[[cards]]
+id = "85157807-9b45-4464-857e-9e593edee8b7"
+japanese = "テレビ"
+reading = ""
+english = "TV"
+answer = "TV"
+example = "テレビをみます。"
+example_en = "I watch TV."
+
+[[cards]]
+id = "2cf9f5ca-b2b3-497c-b961-fdc870fa5653"
+japanese = "見ます"
+reading = "みます"
+english = "watch, will watch, watches"
+answer = "watch"
+example = "えいがを見ます。"
+example_en = "I watch a movie."
+
+[[cards]]
+id = "077254a2-805d-4da8-99c6-5054e4aef02d"
+japanese = "おっと"
+reading = ""
+english = "my husband"
+answer = "my husband"
+example = "おっとはかいしゃいんです。"
+example_en = "My husband is an office worker."
+
+[[cards]]
+id = "91685748-c62f-4e0b-aaa1-d3a053546665"
+japanese = "七"
+reading = "なな"
+english = "7, seven, seventh"
+answer = "7"
+example = "かぞくはななにんです。"
+example_en = "My family is seven people."
+
+[[cards]]
+id = "97d25b29-0ece-4ded-98d1-a88a519dd43f"
+japanese = "あたまがいい"
+reading = ""
+english = "smart"
+answer = "smart"
+example = "むすこはあたまがいいです。"
+example_en = "My son is smart."
+
+[[cards]]
+id = "d1defd1b-9f44-4eea-8850-3acd0735e7b0"
+japanese = "むすこ"
+reading = ""
+english = "my son"
+answer = "my son"
+example = "むすこはだいがくせいです。"
+example_en = "My son is a college student."
+
+[[cards]]
+id = "91ae9bc5-0264-4df7-aded-6e3f2f138522"
+japanese = "おしゃれ"
+reading = ""
+english = "fashionable, stylish, well-dressed"
+answer = "fashionable"
+example = "あねはおしゃれです。"
+example_en = "My older sister is fashionable."
+
+[[cards]]
+id = "4c85def9-67c7-4101-a009-c6887042fad0"
+japanese = "むすめ"
+reading = ""
+english = "my daughter"
+answer = "my daughter"
+example = "むすめはがくせいです。"
+example_en = "My daughter is a student."
+
+[[cards]]
+id = "95131576-61e2-4c5c-8290-a0b00955f07e"
+japanese = "六"
+reading = "ろく"
+english = "six"
+answer = "six"
+example = "むすめはろくさいです。"
+example_en = "My daughter is six years old."
+
+[[cards]]
+id = "b4459870-c80b-4e37-b1a5-106ea140621a"
+japanese = "つま"
+reading = ""
+english = "my wife"
+answer = "my wife"
+example = "つまはかんごしです。"
+example_en = "My wife is a nurse."
+
+[[cards]]
+id = "e4f58836-58ae-4a93-9583-edea9e090311"
+japanese = "だいがくせい"
+reading = ""
+english = "college student"
+answer = "college student"
+example = "あにはだいがくせいです。"
+example_en = "My older brother is a college student."
+
+[[cards]]
+id = "5be4566f-f76c-46e7-8496-b45b1e1cf321"
+japanese = "ゆうめい"
+reading = ""
+english = "famous"
+answer = "famous"
+example = "このレストランはゆうめいです。"
+example_en = "This restaurant is famous."
+
+[[cards]]
+id = "e46e264e-d13b-4d0f-87c6-8dc583653ec7"
+japanese = "かんごし"
+reading = ""
+english = "nurse"
+answer = "nurse"
+example = "はははかんごしです。"
+example_en = "My mother is a nurse."
+
+[[cards]]
+id = "e0e79eca-c55c-427f-9f34-d706e0220527"
+japanese = "おとうと"
+reading = ""
+english = "my younger brother"
+answer = "my younger brother"
+example = "おとうとはじゅうごさいです。"
+example_en = "My younger brother is fifteen years old."
+
+[[cards]]
+id = "445fad65-fc94-44cc-899c-daea39b41f1b"
+japanese = "うるさい"
+reading = ""
+english = "noisy"
+answer = "noisy"
+example = "このまちはうるさいです。"
+example_en = "This town is noisy."
+
+[[cards]]
+id = "b30eaa1c-3e66-478e-9fb8-d53b0974438d"
+japanese = "五"
+reading = "ご"
+english = "5, five"
+answer = "5"
+example = "ごじにかえります。"
+example_en = "I go home at five o'clock."
+
+[[cards]]
+id = "8f0b5411-093f-4704-95d9-8dac6d3dba89"
+japanese = "あに"
+reading = ""
+english = "my older brother"
+answer = "my older brother"
+example = "あにはエンジニアです。"
+example_en = "My older brother is an engineer."
+
+[[cards]]
+id = "ab9ee1f0-8761-44df-80f9-b0a9b112d3a1"
+japanese = "かいしゃいん"
+reading = ""
+english = "office worker"
+answer = "office worker"
+example = "ちちはかいしゃいんです。"
+example_en = "My dad is an office worker."
+
+[[cards]]
+id = "79046424-b100-430b-9e31-f9250e73ceb6"
+japanese = "あね"
+reading = ""
+english = "my older sister"
+answer = "my older sister"
+example = "あねはにじゅうごさいです。"
+example_en = "My older sister is twenty-five years old."
+
+[[cards]]
+id = "213efdb4-ea2f-430f-84e7-16647004f071"
+japanese = "四"
+reading = "よん"
+english = "four"
+answer = "four"
+example = "いもうとはよんさいです。"
+example_en = "My younger sister is four years old."
+
+[[cards]]
+id = "1632ad89-5233-4630-9e68-37a46954b0fa"
+japanese = "いもうと"
+reading = ""
+english = "my younger sister"
+answer = "my younger sister"
+example = "いもうとはかわいいです。"
+example_en = "My younger sister is cute."
+
+[[cards]]
+id = "48cb10e6-cfdd-4f28-8a53-811322b89598"
+japanese = "さい"
+reading = ""
+english = "years old"
+answer = "years old"
+example = "わたしはにじゅっさいです。"
+example_en = "I am twenty years old."
+
+[[cards]]
+id = "0db7e62a-cd06-4326-b1d1-ee36e5f09a65"
+japanese = "いそがしい"
+reading = ""
+english = "busy"
+answer = "busy"
+example = "こんしゅうはいそがしいです。"
+example_en = "I am busy this week."
+
+[[cards]]
+id = "88ceefa1-1784-455f-8fb9-3fc65a1c39bd"
+japanese = "エンジニア"
+reading = ""
+english = "engineer"
+answer = "engineer"
+example = "わたしはエンジニアです。"
+example_en = "I am an engineer."
+
+[[cards]]
+id = "f21a786e-3c45-432a-8b68-befa05f48470"
+japanese = "父"
+reading = "ちち"
+english = "dad"
+answer = "dad"
+example = "父はごじゅっさいです。"
+example_en = "My dad is fifty years old."
+
+[[cards]]
+id = "3909dcc9-f135-4390-841f-e1d7695d5625"
+japanese = "かぞく"
+reading = ""
+english = "family"
+answer = "family"
+example = "かぞくはよにんです。"
+example_en = "My family is four people."
+
+[[cards]]
+id = "4d5dec27-50bc-44e9-9263-c04214bb1e7a"
+japanese = "母"
+reading = "はは"
+english = "mom, mother, my mom"
+answer = "mom"
+example = "母はやさしいです。"
+example_en = "My mom is kind."
+
+[[cards]]
+id = "75517660-4f94-44db-9f6b-7ac8b5484a6d"
+japanese = "まち"
+reading = ""
+english = "town, wait, city"
+answer = "town"
+example = "このまちはしずかです。"
+example_en = "This town is quiet."
+
+[[cards]]
+id = "1d929fef-7c5b-4c01-80bc-c856d2246cb8"
+japanese = "とても"
+reading = ""
+english = "very"
+answer = "very"
+example = "このケーキはとてもおいしいです。"
+example_en = "This cake is very delicious."
+
+[[cards]]
+id = "2687dc4f-e267-4ee0-9960-8ef5d45de2ce"
+japanese = "きれい"
+reading = ""
+english = "clean"
+answer = "clean"
+example = "このへやはきれいです。"
+example_en = "This room is clean."
+
+[[cards]]
+id = "c7209ba5-2a43-49e8-852c-f9a9a7001554"
+japanese = "しずか"
+reading = ""
+english = "quiet"
+answer = "quiet"
+example = "としょかんはしずかです。"
+example_en = "The library is quiet."
+
+[[cards]]
+id = "c4af93f5-8ec5-4b9c-bb1b-5a3240a77967"
+japanese = "トロント"
+reading = ""
+english = "Toronto"
+answer = "Toronto"
+example = "トロントにすんでいます。"
+example_en = "I live in Toronto."
+
+[[cards]]
+id = "82727d3d-4f89-4590-924d-781d23d8b7b8"
+japanese = "にぎやか"
+reading = ""
+english = "lively"
+answer = "lively"
+example = "しぶやはにぎやかです。"
+example_en = "Shibuya is lively."
+
+[[cards]]
+id = "b969f55e-750d-4162-b90d-ebbdb39f3edf"
+japanese = "とし"
+reading = ""
+english = "years, cities, city"
+answer = "years"
+example = "おおきいとしにすんでいます。"
+example_en = "I live in a big city."
+
+[[cards]]
+id = "6170e62b-5ba9-42ec-8176-177326f83b9c"
+japanese = "どう"
+reading = ""
+english = "how (about), what, how"
+answer = "how about"
+example = "日本はどうですか。"
+example_en = "How is Japan?"
+
+[[cards]]
+id = "1b4400f8-c303-478d-b769-05d0b8029467"
+japanese = "日本"
+reading = "にほん"
+english = "Japan, Japanese"
+answer = "Japan"
+example = "日本にいきたいです。"
+example_en = "I want to go to Japan."
+
+[[cards]]
+id = "55a6cf78-03da-4472-8b5b-fc48b4a873c8"
+japanese = "おおさか"
+reading = ""
+english = "Osaka"
+answer = "Osaka"
+example = "おおさかのたべものはおいしいです。"
+example_en = "Osaka's food is delicious."
+
+[[cards]]
+id = "885e6ac6-61ac-4f68-911d-0b981288e096"
+japanese = "京都"
+reading = "きょうと"
+english = "Kyoto"
+answer = "Kyoto"
+example = "京都はきれいです。"
+example_en = "Kyoto is clean."
+
+[[cards]]
+id = "6d89ddc2-5da0-4ea7-88bc-e35b5c848845"
+japanese = "にすんでいます"
+reading = ""
+english = "is living"
+answer = "is living"
+example = "東京にすんでいます。"
+example_en = "I am living in Tokyo."
+
+[[cards]]
+id = "ca4ffbd6-9587-475d-a0cd-8901a67a4bc5"
+japanese = "ニューヨーク"
+reading = ""
+english = "New York"
+answer = "New York"
+example = "ニューヨークはにぎやかです。"
+example_en = "New York is lively."
+
+[[cards]]
+id = "8b7fa6c1-a0b2-43bc-b42d-1d04d4dd7f69"
+japanese = "も"
+reading = ""
+english = "even, any, also"
+answer = "even"
+example = "わたしもがくせいです。"
+example_en = "I am also a student."
+
+[[cards]]
+id = "ca4b2fc2-0089-45f1-b1cb-dd90f33b4ccb"
+japanese = "しゅっしん"
+reading = ""
+english = "from, origin, hometown"
+answer = "from"
+example = "しゅっしんはどこですか。"
+example_en = "Where are you from?"
+
+[[cards]]
+id = "bd068a7b-f562-4cea-a3cf-c6825c547558"
+japanese = "東京"
+reading = "とうきょう"
+english = "Tokyo"
+answer = "Tokyo"
+example = "東京はおおきいです。"
+example_en = "Tokyo is big."
+
+[[cards]]
+id = "859d0de3-b57d-49e2-ac0f-6a6eb8ca0db3"
+japanese = "私"
+reading = "わたし"
+english = "I"
+answer = "I"
+example = "私はがくせいです。"
+example_en = "I am a student."
+
+[[cards]]
+id = "a9025ea4-8bb9-4d69-b5af-a2a62fedc42b"
+japanese = "ようこそ"
+reading = ""
+english = "welcome"
+answer = "welcome"
+example = "にほんへようこそ。"
+example_en = "Welcome to Japan."
+
+[[cards]]
+id = "0804630a-96cd-4a1b-9bb9-294baa4a66c2"
+japanese = "おはようございます"
+reading = ""
+english = "good morning"
+answer = "good morning"
+example = "おはようございます、きょうもがんばりましょう。"
+example_en = "Good morning, let's do our best today."
+
+[[cards]]
+id = "9398070c-3d95-41b5-a70f-8485289756f5"
+japanese = "はじめまして"
+reading = ""
+english = "nice to meet you, how do you do"
+answer = "nice to meet you"
+example = "はじめまして、たなかです。"
+example_en = "Nice to meet you, I am Tanaka."
+
+[[cards]]
+id = "23ad7785-e808-41ff-ba87-670a6cdbccbf"
+japanese = "おなまえは"
+reading = ""
+english = "what's your name"
+answer = "what's your name"
+example = "おなまえはなんですか。"
+example_en = "What is your name?"
+
+[[cards]]
+id = "06da4959-f244-49d6-89af-fc32ca83a646"
+japanese = "かばん"
+reading = ""
+english = "bag"
+answer = "bag"
+example = "あかいかばんをかいます。"
+example_en = "I buy a red bag."
+
+[[cards]]
+id = "945eb783-3294-47a7-91e9-c6d0b66ea9a1"
+japanese = "中山"
+reading = "なかやま"
+english = "Nakayama"
+answer = "Nakayama"
+example = "中山さんはせんせいです。"
+example_en = "Mr. Nakayama is a teacher."
+
+[[cards]]
+id = "e3ea4184-a293-44c8-9873-89dad9787484"
+japanese = "田中"
+reading = "たなか"
+english = "Tanaka"
+answer = "Tanaka"
+example = "田中さんはいしゃです。"
+example_en = "Mr. Tanaka is a doctor."
+
+[[cards]]
+id = "f000d0a0-b567-4f89-9703-4d341e49aec8"
+japanese = "山口"
+reading = "やまぐち"
+english = "Yamaguchi"
+answer = "Yamaguchi"
+example = "山口さんはエンジニアです。"
+example_en = "Mr. Yamaguchi is an engineer."
+
+[[cards]]
+id = "51530eb3-cede-47d2-88be-8f83cc8b2ca6"
+japanese = "パスポート"
+reading = ""
+english = "passport"
+answer = "passport"
+example = "パスポートをみせてください。"
+example_en = "Please show your passport."
+
+[[cards]]
+id = "3064c0d9-d053-4e8a-b0e4-1d2768fcc81c"
+japanese = "の"
+reading = ""
+english = "for, 's, one"
+answer = "for"
+example = "わたしのかばんです。"
+example_en = "It is my bag."
+
+[[cards]]
+id = "f65cfce1-f433-4f02-95f4-20af4c3e8f28"
+japanese = "スマホ"
+reading = ""
+english = "smartphone"
+answer = "smartphone"
+example = "スマホをみます。"
+example_en = "I look at my smartphone."
+
+[[cards]]
+id = "6d17b8ba-b38f-40c9-8851-f0fbd6c6cbba"
+japanese = "ちず"
+reading = ""
+english = "map"
+answer = "map"
+example = "ちずをみてください。"
+example_en = "Please look at the map."
+
+[[cards]]
+id = "cf0bbb24-3acd-4096-be8f-fb8a8cc26e26"
+japanese = "きっぷ"
+reading = ""
+english = "ticket"
+answer = "ticket"
+example = "きっぷをかいます。"
+example_en = "I buy a ticket."
+
+[[cards]]
+id = "5cbbd9d9-0c45-4283-95f3-cadfa487bc74"
+japanese = "じゃないです"
+reading = ""
+english = "is not, we're not, aren't"
+answer = "is not"
+example = "がくせいじゃないです。"
+example_en = "I am not a student."
+
+[[cards]]
+id = "88e8e631-996c-45f1-ad59-14e4842e23cb"
+japanese = "ちかてつ"
+reading = ""
+english = "subway"
+answer = "subway"
+example = "ちかてつでいきます。"
+example_en = "I go by subway."
+
+[[cards]]
+id = "512413a9-5669-4966-b405-dbbb9787a79f"
+japanese = "くうこう"
+reading = ""
+english = "airport"
+answer = "airport"
+example = "くうこうにいきます。"
+example_en = "I go to the airport."
+
+[[cards]]
+id = "b78ccc06-de0c-45ab-ab92-73e7517bff1f"
+japanese = "はん"
+reading = ""
+english = "thirty"
+answer = "thirty"
+example = "さんじはんです。"
+example_en = "It is three thirty."
+
+[[cards]]
+id = "84ab01fc-1565-466d-bc0b-8278a397523c"
+japanese = "すみません"
+reading = ""
+english = "excuse me"
+answer = "excuse me"
+example = "すみません、えきはどこですか。"
+example_en = "Excuse me, where is the station?"
+
+[[cards]]
+id = "697ee1f9-9e67-491f-a2b0-a79653d227b0"
+japanese = "ごろ"
+reading = ""
+english = "around, about"
+answer = "around"
+example = "しちじごろにおきます。"
+example_en = "I wake up around seven o'clock."
+
+[[cards]]
+id = "10a56055-f7d1-4186-b1b4-780b166c1e98"
+japanese = "いま"
+reading = ""
+english = "now, current"
+answer = "now"
+example = "いまなんじですか。"
+example_en = "What time is it now?"
+
+[[cards]]
+id = "c7ac02b8-088b-4ea0-a34c-58d566c5b4ea"
+japanese = "一"
+reading = "いち"
+english = "one, an, a"
+answer = "one"
+example = "一つください。"
+example_en = "One please."
+
+[[cards]]
+id = "8399befd-54f5-49e8-b770-f321e07e38ee"
+japanese = "二"
+reading = "に"
+english = "two, 2"
+answer = "two"
+example = "にじにいきます。"
+example_en = "I go at two o'clock."
+
+[[cards]]
+id = "8506269c-4bfe-4955-a351-e1b94c175246"
+japanese = "なんじ"
+reading = ""
+english = "what time"
+answer = "what time"
+example = "いまなんじですか。"
+example_en = "What time is it?"
+
+[[cards]]
+id = "e1dc6a7d-ad90-4f14-9173-e548ae80047c"
+japanese = "三"
+reading = "さん"
+english = "3, three, third"
+answer = "3"
+example = "さんにんです。"
+example_en = "It is three people."
+
+[[cards]]
+id = "4c998110-fb97-4573-b66b-a6b039667fad"
+japanese = "じ"
+reading = ""
+english = "o'clock"
+answer = "o'clock"
+example = "いまろくじです。"
+example_en = "It is six o'clock now."
+
+[[cards]]
+id = "2710df92-b122-4b6f-bc74-5ce141e50378"
+japanese = "に"
+reading = ""
+english = "to, in, as (a)"
+answer = "to"
+example = "がっこうにいきます。"
+example_en = "I go to school."
+
+[[cards]]
+id = "9208cb33-d1c7-4884-8641-36c0e7f76205"
+japanese = "いち"
+reading = ""
+english = "one, an"
+answer = "one"
+example = "いちばんすきです。"
+example_en = "I like it the most."
+
+[[cards]]
+id = "00d340a6-587d-4371-80c2-8807b4b7e64f"
+japanese = "やまぐち"
+reading = ""
+english = "Yamaguchi"
+answer = "Yamaguchi"
+example = "やまぐちさんはべんごしです。"
+example_en = "Mr. Yamaguchi is a lawyer."
+
+[[cards]]
+id = "8371fffd-a1d4-4022-99b7-2f4c691b7360"
+japanese = "おもしろい"
+reading = ""
+english = "interesting, fun, funny"
+answer = "interesting"
+example = "このえいがはおもしろいです。"
+example_en = "This movie is interesting."
+
+[[cards]]
+id = "545f93c4-1ed8-4b9e-9b95-325b13a0faf4"
+japanese = "その"
+reading = ""
+english = "the, that, its"
+answer = "the"
+example = "そのほんをください。"
+example_en = "That book, please."
+
+[[cards]]
+id = "fb3a070f-fb96-4aff-a57c-f93de8e90ae9"
+japanese = "かわいい"
+reading = ""
+english = "cuter, cute, pretty"
+answer = "cuter"
+example = "このねこはかわいいです。"
+example_en = "This cat is cute."
+
+[[cards]]
+id = "8b04f643-0ff4-4507-ad7b-c27503659340"
+japanese = "あかるい"
+reading = ""
+english = "bright, cheerful, well-lit"
+answer = "bright"
+example = "このへやはあかるいです。"
+example_en = "This room is bright."
+
+[[cards]]
+id = "2ca111fa-f25e-4a4b-99a8-f28ab4104354"
+japanese = "たなか"
+reading = ""
+english = "Tanaka"
+answer = "Tanaka"
+example = "たなかさんはいそがしいです。"
+example_en = "Mr. Tanaka is busy."
+
+[[cards]]
+id = "652de9cd-a221-4a5e-9602-303b592fbb28"
+japanese = "この"
+reading = ""
+english = "this, these"
+answer = "this"
+example = "このほんはおもしろいです。"
+example_en = "This book is interesting."
+
+[[cards]]
+id = "b991ee22-df65-4174-acf0-6cbdf05dd599"
+japanese = "なかやま"
+reading = ""
+english = "Nakayama"
+answer = "Nakayama"
+example = "なかやまさんはともだちです。"
+example_en = "Mr. Nakayama is a friend."
+
+[[cards]]
+id = "88b84e56-110f-4b6c-9968-c5baf29465c5"
+japanese = "それら"
+reading = ""
+english = "they, them, those"
+answer = "they"
+example = "それらはわたしのです。"
+example_en = "Those are mine."
+
+[[cards]]
+id = "127bfa14-f344-4ede-a6c0-59525b35b62e"
+japanese = "これら"
+reading = ""
+english = "these"
+answer = "these"
+example = "これらはにほんのほんです。"
+example_en = "These are Japanese books."
+
+[[cards]]
+id = "bd82117d-9cc6-46fc-b5ae-58843833af8d"
+japanese = "くつ"
+reading = ""
+english = "shoes, shoe"
+answer = "shoes"
+example = "あたらしいくつをかいます。"
+example_en = "I buy new shoes."
+
+[[cards]]
+id = "779705ee-3e11-426b-9867-68d1321c2431"
+japanese = "しろい"
+reading = ""
+english = "white"
+answer = "white"
+example = "しろいTシャツをきます。"
+example_en = "I wear a white t-shirt."
+
+[[cards]]
+id = "9266eb32-1787-43a5-9e0b-c83f9e088718"
+japanese = "コート"
+reading = ""
+english = "coat"
+answer = "coat"
+example = "くろいコートをきます。"
+example_en = "I wear a black coat."
+
+[[cards]]
+id = "78104136-e582-4944-a4a0-f18cfadda77e"
+japanese = "あかい"
+reading = ""
+english = "red"
+answer = "red"
+example = "あかいかさをかいます。"
+example_en = "I buy a red umbrella."
+
+[[cards]]
+id = "208a0ce0-246f-4aa5-9791-bcdb69a6c856"
+japanese = "わたしの"
+reading = ""
+english = "my, mine"
+answer = "my"
+example = "これはわたしのかばんです。"
+example_en = "This is my bag."
+
+[[cards]]
+id = "df801e68-964e-435f-bee3-e051741bb2a9"
+japanese = "かさ"
+reading = ""
+english = "umbrella, umbrellas"
+answer = "umbrella"
+example = "かさをもっていきます。"
+example_en = "I bring an umbrella."
+
+[[cards]]
+id = "75c2d0c4-194c-44e7-8df8-af16fcc66553"
+japanese = "ぼうし"
+reading = ""
+english = "hat, hats"
+answer = "hat"
+example = "しろいぼうしをかぶります。"
+example_en = "I wear a white hat."
+
+[[cards]]
+id = "c7bb71d6-9f68-4cb0-b6ff-631d930c15f6"
+japanese = "そこ"
+reading = ""
+english = "there"
+answer = "there"
+example = "そこにすわってください。"
+example_en = "Please sit there."
+
+[[cards]]
+id = "8f4af857-63f2-4d18-932f-2dc72c6ddd66"
+japanese = "だいがく"
+reading = ""
+english = "university, college"
+answer = "university"
+example = "だいがくでべんきょうします。"
+example_en = "I study at university."
+
+[[cards]]
+id = "55803581-d72f-4ba6-94f0-d5c68966e31e"
+japanese = "えき"
+reading = ""
+english = "station, train station, stations"
+answer = "station"
+example = "えきはちかいです。"
+example_en = "The station is close."
+
+[[cards]]
+id = "624bd619-6d1a-42c2-8fd2-63fa37e2ae80"
+japanese = "デパート"
+reading = ""
+english = "department store"
+answer = "department store"
+example = "デパートでかいものをします。"
+example_en = "I go shopping at the department store."
+
+[[cards]]
+id = "b12eccbe-9501-45ba-85a3-ff2a750c3db2"
+japanese = "ここ"
+reading = ""
+english = "here"
+answer = "here"
+example = "ここにすわってください。"
+example_en = "Please sit here."
+
+[[cards]]
+id = "a9873d4c-5e5c-4277-8dd8-2d428b735a99"
+japanese = "バスてい"
+reading = ""
+english = "bus stop"
+answer = "bus stop"
+example = "バスていでまちます。"
+example_en = "I wait at the bus stop."
+
+[[cards]]
+id = "b367a93b-3ec8-43ae-923a-b003ea615829"
+japanese = "ホテル"
+reading = ""
+english = "hotel"
+answer = "hotel"
+example = "ホテルにとまります。"
+example_en = "I stay at a hotel."
+
+[[cards]]
+id = "0f42a778-6dd2-4517-a572-daab7d582e86"
+japanese = "コンビニ"
+reading = ""
+english = "convenience store"
+answer = "convenience store"
+example = "コンビニでおにぎりをかいます。"
+example_en = "I buy rice balls at the convenience store."
+
+[[cards]]
+id = "5ef6187f-b067-45d0-ba0c-758ad29c8194"
+japanese = "どこ"
+reading = ""
+english = "where"
+answer = "where"
+example = "えきはどこですか。"
+example_en = "Where is the station?"
+
+[[cards]]
+id = "666ac7ac-adb4-4dbc-b8e5-ef24444d641e"
+japanese = "ブラジルじん"
+reading = ""
+english = "Brazilian"
+answer = "Brazilian"
+example = "ともだちはブラジルじんです。"
+example_en = "My friend is Brazilian."
+
+[[cards]]
+id = "552454d9-9fb2-4407-93df-fe8c5f66a13e"
+japanese = "イギリスじん"
+reading = ""
+english = "British"
+answer = "British"
+example = "せんせいはイギリスじんです。"
+example_en = "The teacher is British."
+
+[[cards]]
+id = "613751b2-2285-426b-96f3-61ec73cb42e5"
+japanese = "ブラジル"
+reading = ""
+english = "Brazil"
+answer = "Brazil"
+example = "ブラジルはおおきいくにです。"
+example_en = "Brazil is a big country."
+
+[[cards]]
+id = "61e84b8a-856d-4bfe-9b11-d13e2f3936c5"
+japanese = "イギリス"
+reading = ""
+english = "Britain, the United Kingdom, British"
+answer = "Britain"
+example = "イギリスにいきたいです。"
+example_en = "I want to go to Britain."
+
+[[cards]]
+id = "c3644fa6-bcb0-4f04-ac2f-df5eb29ae79a"
+japanese = "にほんじん"
+reading = ""
+english = "Japanese"
+answer = "Japanese"
+example = "わたしはにほんじんです。"
+example_en = "I am Japanese."
+
+[[cards]]
+id = "1d3d9b66-64a7-4256-8873-537dc2d09d11"
+japanese = "カナダ"
+reading = ""
+english = "Canada"
+answer = "Canada"
+example = "カナダはさむいです。"
+example_en = "Canada is cold."
+
+[[cards]]
+id = "6818de37-dbf4-4ddd-82fa-a7c425de8651"
+japanese = "アメリカじん"
+reading = ""
+english = "American"
+answer = "American"
+example = "ともだちはアメリカじんです。"
+example_en = "My friend is American."
+
+[[cards]]
+id = "baf9ef56-c173-43b1-97ac-995771d9312c"
+japanese = "カナダじん"
+reading = ""
+english = "Canadian"
+answer = "Canadian"
+example = "カナダじんのともだちがいます。"
+example_en = "I have a Canadian friend."
+
+[[cards]]
+id = "0e4b52d8-c73c-47ba-bc8c-aafe0d274d80"
+japanese = "アメリカ"
+reading = ""
+english = "America, the USA, the US"
+answer = "America"
+example = "アメリカにすんでいます。"
+example_en = "I live in America."
+
+[[cards]]
+id = "de66c3c7-e40b-4500-9e0c-41a43ceed793"
+japanese = "ちいさい"
+reading = ""
+english = "small, little"
+answer = "small"
+example = "ちいさいねこがいます。"
+example_en = "There is a small cat."
+
+[[cards]]
+id = "1527c6d5-3fb4-43dc-a178-1f8ba42b1002"
+japanese = "にほん"
+reading = ""
+english = "Japan"
+answer = "Japan"
+example = "にほんにいきます。"
+example_en = "I go to Japan."
+
+[[cards]]
+id = "c1e79079-fb9a-4979-82d8-b90449af4dd5"
+japanese = "おおきい"
+reading = ""
+english = "big, large"
+answer = "big"
+example = "おおきいいえにすんでいます。"
+example_en = "I live in a big house."
+
+[[cards]]
+id = "f8890fa6-92ed-40db-b867-dfcda579ecc8"
+japanese = "か"
+reading = ""
+english = "or, is it?, that"
+answer = "or"
+example = "がくせいですか。"
+example_en = "Are you a student?"
+
+[[cards]]
+id = "746ad294-88ff-4f95-bc29-8ae967ec8daf"
+japanese = "いいえ"
+reading = ""
+english = "no"
+answer = "no"
+example = "いいえ、ちがいます。"
+example_en = "No, that is wrong."
+
+[[cards]]
+id = "32201f49-df41-4517-bd46-d9f46a5acb62"
+japanese = "はい"
+reading = ""
+english = "yes"
+answer = "yes"
+example = "はい、そうです。"
+example_en = "Yes, that is right."
+
+[[cards]]
+id = "b97f5e48-b60f-4272-8cbc-56058f00a103"
+japanese = "ケーキ"
+reading = ""
+english = "cake"
+answer = "cake"
+example = "ケーキをたべます。"
+example_en = "I eat cake."
+
+[[cards]]
+id = "7de3e388-975d-449b-809b-c8cfc3fefb34"
+japanese = "ピザ"
+reading = ""
+english = "pizza"
+answer = "pizza"
+example = "ピザをたべましょう。"
+example_en = "Let's eat pizza."
+
+[[cards]]
+id = "2279ff5c-17ae-45c2-b8b1-ca1556773e56"
+japanese = "それ"
+reading = ""
+english = "that (one), it, that"
+answer = "that one"
+example = "それはなんですか。"
+example_en = "What is that?"
+
+[[cards]]
+id = "a15d1458-8803-4b3a-91af-f138640b1391"
+japanese = "これ"
+reading = ""
+english = "this (one), these, this"
+answer = "this one"
+example = "これはわたしのです。"
+example_en = "This is mine."
+
+[[cards]]
+id = "5db375d4-eb90-4ef8-86e0-edfe495747f5"
+japanese = "ラーメン"
+reading = ""
+english = "ramen"
+answer = "ramen"
+example = "ラーメンがたべたいです。"
+example_en = "I want to eat ramen."
+
+[[cards]]
+id = "98869f2a-b0c1-4524-b4e0-ce81fa539987"
+japanese = "おいしい"
+reading = ""
+english = "good, delicious, tasty"
+answer = "good"
+example = "このすしはおいしいです。"
+example_en = "This sushi is delicious."
+
+[[cards]]
+id = "5429ada7-7095-47f1-8f8e-d186dec6b31a"
+japanese = "は"
+reading = ""
+english = "is, with, regarding"
+answer = "is"
+example = "わたしはがくせいです。"
+example_en = "I am a student."
+
+[[cards]]
+id = "da8497f5-3f66-4dfb-a13e-82930145dcec"
+japanese = "カレー"
+reading = ""
+english = "curry"
+answer = "curry"
+example = "カレーをつくります。"
+example_en = "I make curry."
+
+[[cards]]
+id = "2a185af7-25bf-4a27-acbb-8c8a08b93183"
+japanese = "またあした"
+reading = ""
+english = "see you tomorrow"
+answer = "see you tomorrow"
+example = "またあした、げんきでね。"
+example_en = "See you tomorrow, take care."
+
+[[cards]]
+id = "93bf4aa5-0e7d-400c-8ae6-942016c3bbef"
+japanese = "じゃあね"
+reading = ""
+english = "bye"
+answer = "bye"
+example = "じゃあね、またあした。"
+example_en = "Bye, see you tomorrow."
+
+[[cards]]
+id = "cb40ede5-cf11-45d5-ac7a-6ca6aeab501d"
+japanese = "さん"
+reading = ""
+english = "Mr., Miss, Mrs."
+answer = "Mr."
+example = "たなかさんはせんせいです。"
+example_en = "Mr. Tanaka is a teacher."
+
+[[cards]]
+id = "d361649e-a253-4baa-8182-8a444c242637"
+japanese = "こんばんは"
+reading = ""
+english = "tonight, good evening, this evening"
+answer = "tonight"
+example = "こんばんは、げんきですか。"
+example_en = "Good evening, how are you?"
+
+[[cards]]
+id = "9f77b5bd-23eb-47e6-af88-917041f610ae"
+japanese = "なおみ"
+reading = ""
+english = "Naomi"
+answer = "Naomi"
+example = "なおみさんはやさしいです。"
+example_en = "Naomi is kind."
+
+[[cards]]
+id = "e900f03b-b502-4955-9551-2cda749a3fca"
+japanese = "はな"
+reading = ""
+english = "flowers, flower, Hana"
+answer = "flowers"
+example = "はなさんはがくせいです。"
+example_en = "Hana is a student."
+
+[[cards]]
+id = "c2f92d19-1a2a-4038-b8f4-c95fc8f84bbb"
+japanese = "どうぞよろしく"
+reading = ""
+english = "nice to meet you"
+answer = "nice to meet you"
+example = "はじめまして、どうぞよろしく。"
+example_en = "Nice to meet you, pleased to meet you."
+
+[[cards]]
+id = "4ecdfbf9-1bbc-45e1-90c4-770a733cf55e"
+japanese = "こんにちは"
+reading = ""
+english = "hello, hi"
+answer = "hello"
+example = "こんにちは、げんきですか。"
+example_en = "Hello, how are you?"
+
+[[cards]]
+id = "2bce4763-cfa0-4e15-8c10-7cb13bf115ab"
+japanese = "けん"
+reading = ""
+english = "Ken, ticket"
+answer = "Ken"
+example = "けんさんはかっこいいです。"
+example_en = "Ken is cool."
+
+[[cards]]
+id = "86b6eea7-f143-45cc-aa95-84922d5d084a"
+japanese = "がくせい"
+reading = ""
+english = "student, students"
+answer = "student"
+example = "わたしはだいがくのがくせいです。"
+example_en = "I am a university student."
+
+[[cards]]
+id = "fdc8e941-e5e9-4025-9a45-5382ad612038"
+japanese = "ひと"
+reading = ""
+english = "person, people"
+answer = "person"
+example = "あのひとはだれですか。"
+example_en = "Who is that person?"
+
+[[cards]]
+id = "1cd0a779-abcd-4c1f-aecc-c07802a09d23"
+japanese = "かっこいい"
+reading = ""
+english = "cool, good-looking, stylish"
+answer = "cool"
+example = "あのひとはかっこいいです。"
+example_en = "That person is cool."
+
+[[cards]]
+id = "477fbffb-be40-4f14-b515-8f0497ee8ba8"
+japanese = "べんごし"
+reading = ""
+english = "lawyer, lawyers"
+answer = "lawyer"
+example = "ちちはべんごしです。"
+example_en = "My dad is a lawyer."
+
+[[cards]]
+id = "5002cd17-e334-43fb-b4a1-7bc1c77f6b14"
+japanese = "やさしい"
+reading = ""
+english = "kind, easy, nice"
+answer = "kind"
+example = "せんせいはやさしいです。"
+example_en = "The teacher is kind."
+
+[[cards]]
+id = "44d9618d-c0e1-4264-ad90-10c53a59b849"
+japanese = "せんせい"
+reading = ""
+english = "teacher, Professor, teachers"
+answer = "teacher"
+example = "せんせいはにほんじんです。"
+example_en = "The teacher is Japanese."
+
+[[cards]]
+id = "6b9dc63d-3af4-4061-a48a-00d9536ef1ce"
+japanese = "いしゃ"
+reading = ""
+english = "doctor, doctors"
+answer = "doctor"
+example = "はははいしゃです。"
+example_en = "My mother is a doctor."
+
+[[cards]]
+id = "fedc83eb-c748-4673-be7c-428c1b9c70a6"
+japanese = "です"
+reading = ""
+english = "there is, it's, I'm"
+answer = "there is"
+example = "わたしはがくせいです。"
+example_en = "I am a student."
+
+[[cards]]
+id = "631ff69b-fbb4-4a01-a79e-07f62fdf88fe"
+japanese = "と"
+reading = ""
+english = "and, that, door"
+answer = "and"
+example = "ともだちとえいがをみます。"
+example_en = "I watch a movie with a friend."
+
+[[cards]]
+id = "7290a65f-808a-4fcf-a7bf-8d3ac9441307"
+japanese = "みず"
+reading = ""
+english = "water"
+answer = "water"
+example = "みずをのみます。"
+example_en = "I drink water."
+
+[[cards]]
+id = "ea58125b-3e07-4b76-9546-a885fcac4fea"
+japanese = "ごはん"
+reading = ""
+english = "rice, meal, meals"
+answer = "rice"
+example = "ごはんをたべます。"
+example_en = "I eat a meal."
+
+[[cards]]
+id = "59b000de-90c2-4c6b-ba1b-7b05bf7b4ef9"
+japanese = "すし"
+reading = ""
+english = "sushi"
+answer = "sushi"
+example = "すしがすきです。"
+example_en = "I like sushi."
+
+[[cards]]
+id = "bab36af1-36cf-41f4-8512-9c8538326b8b"
+japanese = "ください"
+reading = ""
+english = "please"
+answer = "please"
+example = "みずをください。"
+example_en = "Water, please."
+
+[[cards]]
+id = "9c48ddf8-a170-4272-86a4-64068be34998"
+japanese = "おちゃ"
+reading = ""
+english = "green teas, green tea, tea"
+answer = "green teas"
+example = "おちゃをのみます。"
+example_en = "I drink green tea."
