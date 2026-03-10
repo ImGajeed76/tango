@@ -125,13 +125,13 @@ RECOGNITION_BACK = """\
 PRODUCTION_FRONT = """\
 <div class="english">{{English}}</div>
 <div class="type-prompt">Type the Japanese word:</div>
-{{type:Answer}}
+{{type:Japanese}}
 """
 
 PRODUCTION_BACK = """\
 <div class="english">{{English}}</div>
 <hr>
-{{type:Answer}}
+{{type:Japanese}}
 <div class="japanese">{{Japanese}}</div>
 {{#Reading}}
 <div class="reading">{{Reading}}</div>
