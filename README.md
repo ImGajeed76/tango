@@ -2,7 +2,7 @@
 
 *It takes two to learn vocabulary.*
 
-A Japanese vocabulary Anki deck with 362 words, audio pronunciation, and example sentences. Features two card types for both recognition and production practice.
+A Japanese vocabulary Anki deck with 587 words, audio pronunciation, and example sentences. Features two card types for both recognition and production practice.
 
 ## Card Types
 
@@ -49,7 +49,17 @@ python scripts/add_cards.py
 
 This will generate a UUID, auto-detect hiragana readings for kanji, generate audio, append to `data/cards.toml`, and rebuild the `.apkg`.
 
-3. Re-import the `.apkg` in Anki — existing card progress is preserved.
+3. Re-import the `.apkg` in Anki (see [Updating the Deck](#updating-the-deck)).
+
+## Updating the Deck
+
+After adding new cards or rebuilding the deck, re-import the updated `.apkg`:
+
+1. Open Anki → File → Import → select `japanese_vocabulary.apkg`
+2. Set **Update notes** and **Update note types** to **Always**
+3. Import — new cards are added and existing cards are updated
+4. Your review history, intervals, and scheduling are preserved
+5. Sync to AnkiWeb to update your other devices
 
 ## Project Structure
 
